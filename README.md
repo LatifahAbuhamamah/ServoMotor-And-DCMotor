@@ -1,5 +1,5 @@
 # ServoMotor_And_DCMotor
-## 1.Servo Motor 
+## 1. Servo Motor 
 ```
 // C++ code
 #include <Servo.h>
