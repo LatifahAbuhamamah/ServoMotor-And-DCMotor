@@ -1,4 +1,4 @@
-# ServoMotor_And_DCMotor
+# ServoMotor-And-DCMotor
 ## Servo Motor 
 Steps to control a servo motor using an Arduino in Tinkercad:
 1. Open Tinkercad.
