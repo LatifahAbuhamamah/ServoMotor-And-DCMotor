@@ -97,6 +97,7 @@ void loop()
 
 - Tinkercad link : https://www.tinkercad.com/things/00wSrV6L0lU
 - Screenshot
+![imaggge](https://github.com/LatifahAbuhamamah/ServoMotor-And-DCMotor/blob/main/DCmotor-Screenshot.png)
   
 
 
