@@ -50,12 +50,12 @@ To control a DC motor using an L293D motor driver and a battery on Tinkercad, fo
    - Battery: Search for "Battery" and add it to the workspace.
   
 5. Connect the components as follows:
-  - Connect the DC motor's positive terminal to pin 8 (Output 1) of the L293D.
-  - Connect the DC motor's negative terminal to pin 9 (Output 2) of the L293D.
-  - Connect pin 1 of the L293D to pin 13 (PWM) of the Arduino.
-  - Connect pin 2 of the L293D to pin 10 of the Arduino.
-  - Connect pin 7 of the L293D to pin 9 of the Arduino.
-  - Connect the battery to the breadboard.
+   - Connect the DC motor's positive terminal to pin 8 (Output 1) of the L293D.
+   - Connect the DC motor's negative terminal to pin 9 (Output 2) of the L293D.
+   - Connect pin 1 of the L293D to pin 13 (PWM) of the Arduino.
+   - Connect pin 2 of the L293D to pin 10 of the Arduino.
+   - Connect pin 7 of the L293D to pin 9 of the Arduino.
+   - Connect the battery to the breadboard.
    
 6. Write the following C++ code:
 ```cpp
