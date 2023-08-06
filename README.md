@@ -31,8 +31,8 @@ void loop() {
   }
 }
 ```
-10. Save the project and click the "Start Simulation" button to run the code and see the servo motor in action.
-11. In the simulation, we will observe the servo motor smoothly sweeping back and forth between 0 and 180 degrees, controlled by the code's delay.
+9. Save the project and click the "Start Simulation" button to run the code and see the servo motor in action.
+10. In the simulation, we will observe the servo motor smoothly sweeping back and forth between 0 and 180 degrees, controlled by the code's delay.
 - Tinkercad link : https://www.tinkercad.com/things/0mhhh1wDN2w
 - Screenshot
 ![servomotor](https://github.com/LatifahAbuhamamah/ServoMotor_And_DCMotor/blob/main/Servomotor_screenshot.png)
